@@ -1,13 +1,13 @@
 import React from 'react'
+import './Home.css'
 
-const App = () => {
+const Home = () => {
   return (
     <div>
 
 
-      
     </div>
   )
 }
 
-export default App
+export default Home
